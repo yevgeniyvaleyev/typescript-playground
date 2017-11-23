@@ -1,0 +1,6 @@
+--reporter spec
+--colors
+--timeout 2000
+--require ts-node/register 
+--recursive
+test/*.spec.ts
